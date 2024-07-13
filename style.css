@@ -1,0 +1,5 @@
+img{
+    width: 300px;
+    height: 250px;
+    clip-path: circle(40.1% at 50% 50%);
+}
